@@ -1,0 +1,8 @@
+[0.128s] Invoking command in '/home/abd/exp_ws/src/build/motion_capture_tracking': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/install/motion_capture_tracking:/home/abd/exp_ws/install/crazyflie:/home/abd/exp_ws/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/install/crazyflie_sim:/home/abd/exp_ws/install/crazyflie_examples:/home/abd/exp_ws/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/crazyflie_py:/home/abd/exp_ws/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --build /home/abd/exp_ws/src/build/motion_capture_tracking -- -j12 -l12
+[0.201s] [  8%] Built target quat
+[0.216s] [ 16%] Built target qualisys_cpp_sdk
+[0.217s] [ 19%] Built target librigidbodytracker
+[0.240s] [ 66%] Built target vrpn
+[0.260s] [ 83%] Built target ViconDataStreamSDK_CPP
+[0.316s] [ 96%] Built target libmotioncapture
+[0.377s] [100%] Built target motion_capture_tracking_node

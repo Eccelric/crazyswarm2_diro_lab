@@ -1,0 +1,41 @@
+[0.202s] Invoking command in '/home/abd/exp_ws/src/build/motion_capture_tracking': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/install/motion_capture_tracking:/home/abd/exp_ws/install/crazyflie:/home/abd/exp_ws/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/install/crazyflie_sim:/home/abd/exp_ws/install/crazyflie_examples:/home/abd/exp_ws/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/new_description:/home/abd/exp_ws/src/install/crazyflie_py:/home/abd/exp_ws/src/install/NEW_description:/home/abd/exp_ws/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --build /home/abd/exp_ws/src/build/motion_capture_tracking -- -j12 -l12
+[0.313s] [35m[1mConsolidate compiler generated dependencies of target quat[0m
+[0.333s] [35m[1mConsolidate compiler generated dependencies of target librigidbodytracker[0m
+[0.349s] [  8%] Built target quat
+[0.379s] [35m[1mConsolidate compiler generated dependencies of target qualisys_cpp_sdk[0m
+[0.415s] [ 16%] Built target qualisys_cpp_sdk
+[0.424s] [ 19%] Built target librigidbodytracker
+[0.446s] [35m[1mConsolidate compiler generated dependencies of target vrpn[0m
+[0.513s] [35m[1mConsolidate compiler generated dependencies of target ViconDataStreamSDK_CPP[0m
+[0.534s] [ 66%] Built target vrpn
+[0.659s] [ 83%] Built target ViconDataStreamSDK_CPP
+[0.702s] [35m[1mConsolidate compiler generated dependencies of target libmotioncapture[0m
+[0.822s] [ 96%] Built target libmotioncapture
+[0.860s] [35m[1mConsolidate compiler generated dependencies of target motion_capture_tracking_node[0m
+[0.936s] [100%] Built target motion_capture_tracking_node
+[0.961s] Invoked command in '/home/abd/exp_ws/src/build/motion_capture_tracking' returned '0': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/install/motion_capture_tracking:/home/abd/exp_ws/install/crazyflie:/home/abd/exp_ws/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/install/crazyflie_sim:/home/abd/exp_ws/install/crazyflie_examples:/home/abd/exp_ws/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/new_description:/home/abd/exp_ws/src/install/crazyflie_py:/home/abd/exp_ws/src/install/NEW_description:/home/abd/exp_ws/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --build /home/abd/exp_ws/src/build/motion_capture_tracking -- -j12 -l12
+[1.123s] Invoking command in '/home/abd/exp_ws/src/build/motion_capture_tracking': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/install/motion_capture_tracking:/home/abd/exp_ws/install/crazyflie:/home/abd/exp_ws/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/install/crazyflie_sim:/home/abd/exp_ws/install/crazyflie_examples:/home/abd/exp_ws/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/new_description:/home/abd/exp_ws/src/install/crazyflie_py:/home/abd/exp_ws/src/install/NEW_description:/home/abd/exp_ws/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --install /home/abd/exp_ws/src/build/motion_capture_tracking
+[1.131s] -- Install configuration: ""
+[1.132s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/lib/motion_capture_tracking/motion_capture_tracking_node
+[1.133s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking//launch
+[1.133s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking//launch/launch.py
+[1.133s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking//launch/node.launch
+[1.133s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking//config
+[1.133s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking//config/rviz.rviz
+[1.134s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking//config/cfg.yaml
+[1.134s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/ament_index/resource_index/package_run_dependencies/motion_capture_tracking
+[1.134s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/ament_index/resource_index/parent_prefix_path/motion_capture_tracking
+[1.134s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/environment/ament_prefix_path.sh
+[1.134s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/environment/ament_prefix_path.dsv
+[1.135s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/environment/path.sh
+[1.135s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/environment/path.dsv
+[1.135s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/local_setup.bash
+[1.135s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/local_setup.sh
+[1.135s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/local_setup.zsh
+[1.135s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/local_setup.dsv
+[1.135s] -- Installing: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/package.dsv
+[1.135s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/ament_index/resource_index/packages/motion_capture_tracking
+[1.136s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/cmake/motion_capture_trackingConfig.cmake
+[1.136s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/cmake/motion_capture_trackingConfig-version.cmake
+[1.136s] -- Up-to-date: /home/abd/exp_ws/src/install/motion_capture_tracking/share/motion_capture_tracking/package.xml
+[1.139s] Invoked command in '/home/abd/exp_ws/src/build/motion_capture_tracking' returned '0': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/install/motion_capture_tracking:/home/abd/exp_ws/install/crazyflie:/home/abd/exp_ws/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/install/crazyflie_sim:/home/abd/exp_ws/install/crazyflie_examples:/home/abd/exp_ws/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/new_description:/home/abd/exp_ws/src/install/crazyflie_py:/home/abd/exp_ws/src/install/NEW_description:/home/abd/exp_ws/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --install /home/abd/exp_ws/src/build/motion_capture_tracking

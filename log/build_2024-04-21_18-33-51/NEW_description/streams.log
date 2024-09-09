@@ -1,0 +1,25 @@
+[1.108s] Invoking command in '/home/abd/exp_ws/src/crazyswarm2/UGV': PYTHONPATH=/home/abd/exp_ws/src/build/NEW_description/prefix_override:/home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/NEW_description build --build-base /home/abd/exp_ws/src/build/NEW_description/build install --record /home/abd/exp_ws/src/build/NEW_description/install.log --install-scripts $base/lib/new_description --single-version-externally-managed
+[1.387s] /home/abd/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.387s]   warnings.warn(
+[1.401s] running egg_info
+[1.402s] creating ../../build/NEW_description/new_description.egg-info
+[1.402s] writing ../../build/NEW_description/new_description.egg-info/PKG-INFO
+[1.402s] writing dependency_links to ../../build/NEW_description/new_description.egg-info/dependency_links.txt
+[1.402s] writing entry points to ../../build/NEW_description/new_description.egg-info/entry_points.txt
+[1.402s] writing requirements to ../../build/NEW_description/new_description.egg-info/requires.txt
+[1.403s] writing top-level names to ../../build/NEW_description/new_description.egg-info/top_level.txt
+[1.403s] writing manifest file '../../build/NEW_description/new_description.egg-info/SOURCES.txt'
+[1.404s] reading manifest file '../../build/NEW_description/new_description.egg-info/SOURCES.txt'
+[1.405s] writing manifest file '../../build/NEW_description/new_description.egg-info/SOURCES.txt'
+[1.405s] running build
+[1.405s] running build_py
+[1.405s] creating /home/abd/exp_ws/src/build/NEW_description/build/lib/new_description
+[1.405s] copying new_description/__init__.py -> /home/abd/exp_ws/src/build/NEW_description/build/lib/new_description
+[1.405s] running install
+[1.406s] running install_lib
+[1.407s] creating /home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages/new_description
+[1.407s] copying /home/abd/exp_ws/src/build/NEW_description/build/lib/new_description/__init__.py -> /home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages/new_description
+[1.408s] byte-compiling /home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages/new_description/__init__.py to __init__.cpython-310.pyc
+[1.408s] running install_data
+[1.409s] error: can't copy 'resource/new_description': doesn't exist or not a regular file
+[1.541s] Invoked command in '/home/abd/exp_ws/src/crazyswarm2/UGV' returned '1': PYTHONPATH=/home/abd/exp_ws/src/build/NEW_description/prefix_override:/home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/NEW_description build --build-base /home/abd/exp_ws/src/build/NEW_description/build install --record /home/abd/exp_ws/src/build/NEW_description/install.log --install-scripts $base/lib/new_description --single-version-externally-managed

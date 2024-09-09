@@ -1,0 +1,20 @@
+running egg_info
+creating ../../build/NEW_description/new_description.egg-info
+writing ../../build/NEW_description/new_description.egg-info/PKG-INFO
+writing dependency_links to ../../build/NEW_description/new_description.egg-info/dependency_links.txt
+writing entry points to ../../build/NEW_description/new_description.egg-info/entry_points.txt
+writing requirements to ../../build/NEW_description/new_description.egg-info/requires.txt
+writing top-level names to ../../build/NEW_description/new_description.egg-info/top_level.txt
+writing manifest file '../../build/NEW_description/new_description.egg-info/SOURCES.txt'
+reading manifest file '../../build/NEW_description/new_description.egg-info/SOURCES.txt'
+writing manifest file '../../build/NEW_description/new_description.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/abd/exp_ws/src/build/NEW_description/build/lib/new_description
+copying new_description/__init__.py -> /home/abd/exp_ws/src/build/NEW_description/build/lib/new_description
+running install
+running install_lib
+creating /home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages/new_description
+copying /home/abd/exp_ws/src/build/NEW_description/build/lib/new_description/__init__.py -> /home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages/new_description
+byte-compiling /home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages/new_description/__init__.py to __init__.cpython-310.pyc
+running install_data

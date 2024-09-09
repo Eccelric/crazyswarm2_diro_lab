@@ -1,0 +1,88 @@
+[1.022s] Invoking command in '/home/abd/exp_ws/src/build/crazyflie_sim': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_py:/opt/ros/humble LD_LIBRARY_PATH=/home/abd/exp_ws/src/install/crazyflie_interfaces/lib:/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/abd/exp_ws/src/build/crazyflie_sim -- -j12 -l12
+[1.186s] Built target ament_cmake_python_copy_crazyflie_sim_setup
+[1.200s] Built target ament_cmake_python_copy_crazyflie_sim
+[2.181s] running egg_info
+[2.182s] writing crazyflie_sim.egg-info/PKG-INFO
+[2.182s] writing dependency_links to crazyflie_sim.egg-info/dependency_links.txt
+[2.183s] writing entry points to crazyflie_sim.egg-info/entry_points.txt
+[2.183s] writing top-level names to crazyflie_sim.egg-info/top_level.txt
+[2.190s] reading manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[2.191s] writing manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[2.274s] running install_scripts
+[2.292s] Built target ament_cmake_python_build_crazyflie_sim_egg
+[2.329s] running egg_info
+[2.332s] writing crazyflie_sim.egg-info/PKG-INFO
+[2.333s] writing dependency_links to crazyflie_sim.egg-info/dependency_links.txt
+[2.335s] writing entry points to crazyflie_sim.egg-info/entry_points.txt
+[2.336s] writing top-level names to crazyflie_sim.egg-info/top_level.txt
+[2.341s] reading manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[2.343s] writing manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[2.347s] Installing crazyflie_server script to scripts
+[2.464s] Built target ament_cmake_python_build_crazyflie_sim_scripts
+[2.539s] Invoked command in '/home/abd/exp_ws/src/build/crazyflie_sim' returned '0': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_py:/opt/ros/humble LD_LIBRARY_PATH=/home/abd/exp_ws/src/install/crazyflie_interfaces/lib:/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/abd/exp_ws/src/build/crazyflie_sim -- -j12 -l12
+[2.933s] Invoking command in '/home/abd/exp_ws/src/build/crazyflie_sim': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_py:/opt/ros/humble LD_LIBRARY_PATH=/home/abd/exp_ws/src/install/crazyflie_interfaces/lib:/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/abd/exp_ws/src/build/crazyflie_sim
+[2.950s] -- Install configuration: ""
+[2.950s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/environment/pythonpath.sh
+[2.951s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/environment/pythonpath.dsv
+[2.952s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info
+[2.952s] -- Installing: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/entry_points.txt
+[2.953s] -- Installing: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/SOURCES.txt
+[2.954s] -- Installing: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/dependency_links.txt
+[2.955s] -- Installing: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/PKG-INFO
+[2.956s] -- Installing: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/top_level.txt
+[2.957s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/lib/crazyflie_sim/
+[2.958s] -- Installing: /home/abd/exp_ws/src/install/crazyflie_sim/lib/crazyflie_sim//crazyflie_server
+[2.958s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim
+[2.959s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization
+[2.959s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/record_states.py
+[2.960s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/rviz.py
+[2.960s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/pdf.py
+[2.961s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/blender.py
+[2.961s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/README.md
+[2.961s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data
+[2.962s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env
+[2.962s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/derelict_overpass.jpg
+[2.962s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/aviation_museum.jpg
+[2.962s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/lake_pier.jpg
+[2.963s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/abandoned_greenhouse.jpg
+[2.963s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/env.jpg
+[2.963s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/lago_disola.jpg
+[2.964s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/machine_shop.jpg
+[2.964s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/peppermint_powerplant.jpg
+[2.964s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/museumplein.jpg
+[2.971s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/studio_garden.jpg
+[2.971s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/crosswalk.jpg
+[2.971s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/aerodynamics_workshop.jpg
+[2.971s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/README.md
+[2.972s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model
+[2.972s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model/cf.mtl
+[2.972s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model/cf.obj
+[2.972s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/__init__.py
+[2.972s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend
+[2.972s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/np.py
+[2.973s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/none.py
+[2.973s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_sil.py
+[2.973s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/sim_data_types.py
+[2.973s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_server.py
+[3.132s] Listing '/home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim'...
+[3.133s] Listing '/home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend'...
+[3.133s] Listing '/home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization'...
+[3.133s] Listing '/home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data'...
+[3.133s] Listing '/home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env'...
+[3.133s] Listing '/home/abd/exp_ws/src/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model'...
+[3.151s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/ament_index/resource_index/package_run_dependencies/crazyflie_sim
+[3.156s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/ament_index/resource_index/parent_prefix_path/crazyflie_sim
+[3.156s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/environment/ament_prefix_path.sh
+[3.156s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/environment/ament_prefix_path.dsv
+[3.157s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/environment/path.sh
+[3.157s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/environment/path.dsv
+[3.157s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/local_setup.bash
+[3.157s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/local_setup.sh
+[3.157s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/local_setup.zsh
+[3.157s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/local_setup.dsv
+[3.157s] -- Installing: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/package.dsv
+[3.158s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/ament_index/resource_index/packages/crazyflie_sim
+[3.158s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/cmake/crazyflie_simConfig.cmake
+[3.158s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/cmake/crazyflie_simConfig-version.cmake
+[3.158s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie_sim/share/crazyflie_sim/package.xml
+[3.439s] Invoked command in '/home/abd/exp_ws/src/build/crazyflie_sim' returned '0': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_py:/opt/ros/humble LD_LIBRARY_PATH=/home/abd/exp_ws/src/install/crazyflie_interfaces/lib:/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/abd/exp_ws/src/build/crazyflie_sim

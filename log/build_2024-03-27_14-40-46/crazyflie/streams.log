@@ -1,0 +1,73 @@
+[0.624s] Invoking command in '/home/abd/exp_ws/src/build/crazyflie': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --build /home/abd/exp_ws/src/build/crazyflie -- -j12 -l12
+[0.708s] [ 22%] Built target crazyflieLinkCpp
+[0.714s] [ 27%] Built target teleop
+[0.743s] [ 35%] Built target crazyflie_cpp
+[0.820s] [ 40%] Built target listLogVariables
+[0.827s] [ 50%] Built target scan
+[0.828s] [ 50%] Built target reboot
+[0.830s] [ 57%] Built target comCheck
+[0.831s] [ 60%] Built target crazyflie_server
+[0.836s] [ 65%] Built target listParams
+[0.837s] [ 70%] Built target version
+[0.841s] [ 75%] Built target log
+[0.845s] [ 80%] Built target downloadUSDLogfile
+[0.847s] [ 85%] Built target listMemories
+[0.849s] [ 90%] Built target console
+[0.856s] [ 95%] Built target battery
+[0.879s] [100%] Built target setParam
+[0.899s] Invoked command in '/home/abd/exp_ws/src/build/crazyflie' returned '0': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --build /home/abd/exp_ws/src/build/crazyflie -- -j12 -l12
+[0.974s] Invoking command in '/home/abd/exp_ws/src/build/crazyflie': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --install /home/abd/exp_ws/src/build/crazyflie
+[0.985s] -- Install configuration: ""
+[0.985s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/comCheck
+[0.985s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/scan
+[0.986s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/listParams
+[0.986s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/listLogVariables
+[0.986s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/listMemories
+[0.986s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/reboot
+[0.987s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/battery
+[0.987s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/version
+[0.987s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/console
+[0.987s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/log
+[0.988s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/setParam
+[0.988s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/downloadUSDLogfile
+[0.988s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/teleop
+[0.989s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/crazyflie_server
+[0.989s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/crazyflie_server.py
+[0.989s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/chooser.py
+[0.989s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/vel_mux.py
+[0.990s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/cfmult.py
+[0.990s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/simple_mapper_multiranger.py
+[0.990s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/leader_cf.py
+[0.990s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/follower_cf.py
+[0.991s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/trajectory_publisher.py
+[0.991s] -- Installing: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/begin_operation.py
+[0.991s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/mid_operation.py
+[0.991s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/autonomous_sequence.py
+[0.991s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/lib/crazyflie/trajectory.py
+[0.991s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie//launch
+[0.992s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie//launch/launch_teleop2.py
+[0.992s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie//launch/closed_loop_object_transport_launch
+[0.992s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie//launch/launch.py
+[0.992s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie//launch/teleop_launch.py
+[0.992s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie//config
+[0.992s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie//config/crazyflies.yaml
+[0.992s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie//config/config.rviz
+[0.992s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie//config/motion_capture.yaml
+[0.993s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie//config/server.yaml
+[0.993s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie//config/teleop.yaml
+[0.993s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/ament_index/resource_index/package_run_dependencies/crazyflie
+[0.993s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/ament_index/resource_index/parent_prefix_path/crazyflie
+[0.993s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/environment/ament_prefix_path.sh
+[0.993s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/environment/ament_prefix_path.dsv
+[0.994s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/environment/path.sh
+[0.994s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/environment/path.dsv
+[0.994s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/local_setup.bash
+[0.994s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/local_setup.sh
+[0.994s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/local_setup.zsh
+[0.994s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/local_setup.dsv
+[0.995s] -- Installing: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/package.dsv
+[0.995s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/ament_index/resource_index/packages/crazyflie
+[0.995s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/cmake/crazyflieConfig.cmake
+[0.995s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/cmake/crazyflieConfig-version.cmake
+[0.995s] -- Up-to-date: /home/abd/exp_ws/src/install/crazyflie/share/crazyflie/package.xml
+[0.996s] Invoked command in '/home/abd/exp_ws/src/build/crazyflie' returned '0': CMAKE_PREFIX_PATH=/home/abd/exp_ws/src/install/motion_capture_tracking_interfaces:/home/abd/exp_ws/src/install/crazyflie_interfaces:/home/abd/exp_ws/src/install/motion_capture_tracking:/home/abd/exp_ws/src/install/crazyflie:/home/abd/exp_ws/src/install/crazyflie_sim:/home/abd/exp_ws/src/install/crazyflie_examples:/home/abd/exp_ws/src/install/crazyflie_py:/opt/ros/humble /usr/bin/cmake --install /home/abd/exp_ws/src/build/crazyflie

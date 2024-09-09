@@ -1,0 +1,52 @@
+[1.442s] Invoking command in '/home/abd/exp_ws/src/crazyswarm2/UGV': PYTHONPATH=/home/abd/exp_ws/src/build/NEW_description/prefix_override:/home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/NEW_description build --build-base /home/abd/exp_ws/src/build/NEW_description/build install --record /home/abd/exp_ws/src/build/NEW_description/install.log --install-scripts $base/lib/NEW_description --single-version-externally-managed
+[1.760s] /home/abd/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.761s]   warnings.warn(
+[1.791s] running egg_info
+[1.791s] creating ../../build/NEW_description/NEW_description.egg-info
+[1.792s] writing ../../build/NEW_description/NEW_description.egg-info/PKG-INFO
+[1.792s] writing dependency_links to ../../build/NEW_description/NEW_description.egg-info/dependency_links.txt
+[1.792s] writing entry points to ../../build/NEW_description/NEW_description.egg-info/entry_points.txt
+[1.792s] writing requirements to ../../build/NEW_description/NEW_description.egg-info/requires.txt
+[1.792s] writing top-level names to ../../build/NEW_description/NEW_description.egg-info/top_level.txt
+[1.793s] writing manifest file '../../build/NEW_description/NEW_description.egg-info/SOURCES.txt'
+[1.795s] reading manifest file '../../build/NEW_description/NEW_description.egg-info/SOURCES.txt'
+[1.796s] writing manifest file '../../build/NEW_description/NEW_description.egg-info/SOURCES.txt'
+[1.796s] running build
+[1.796s] running build_py
+[1.796s] creating /home/abd/exp_ws/src/build/NEW_description/build
+[1.796s] creating /home/abd/exp_ws/src/build/NEW_description/build/lib
+[1.796s] creating /home/abd/exp_ws/src/build/NEW_description/build/lib/NEW_description
+[1.796s] copying NEW_description/__init__.py -> /home/abd/exp_ws/src/build/NEW_description/build/lib/NEW_description
+[1.796s] running install
+[1.797s] running install_lib
+[1.798s] creating /home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages/NEW_description
+[1.798s] copying /home/abd/exp_ws/src/build/NEW_description/build/lib/NEW_description/__init__.py -> /home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages/NEW_description
+[1.798s] byte-compiling /home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages/NEW_description/__init__.py to __init__.cpython-310.pyc
+[1.799s] running install_data
+[1.799s] creating /home/abd/exp_ws/src/install/NEW_description/share/ament_index
+[1.800s] creating /home/abd/exp_ws/src/install/NEW_description/share/ament_index/resource_index
+[1.800s] creating /home/abd/exp_ws/src/install/NEW_description/share/ament_index/resource_index/packages
+[1.800s] copying resource/NEW_description -> /home/abd/exp_ws/src/install/NEW_description/share/ament_index/resource_index/packages
+[1.800s] copying package.xml -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description
+[1.800s] creating /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/launch
+[1.800s] copying launch/display.launch.py -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/launch
+[1.800s] copying launch/gazebo.launch.py -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/launch
+[1.801s] creating /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/urdf
+[1.801s] copying urdf/NEW.trans -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/urdf
+[1.801s] copying urdf/materials.xacro -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/urdf
+[1.801s] copying urdf/NEW.xacro -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/urdf
+[1.801s] copying urdf/NEW.gazebo -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/urdf
+[1.801s] creating /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/meshes
+[1.801s] copying meshes/right_front_wheel__1.stl -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/meshes
+[1.801s] copying meshes/base_link.stl -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/meshes
+[1.801s] copying meshes/rfid_holder_1.stl -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/meshes
+[1.802s] copying meshes/left_front_wheel_1.stl -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/meshes
+[1.802s] copying meshes/left_back_wheel__1.stl -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/meshes
+[1.802s] copying meshes/right_back_wheel_1.stl -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/meshes
+[1.802s] creating /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/config
+[1.802s] copying config/display.rviz -> /home/abd/exp_ws/src/install/NEW_description/share/NEW_description/config
+[1.802s] running install_egg_info
+[1.804s] Copying ../../build/NEW_description/NEW_description.egg-info to /home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages/NEW_description-0.0.0-py3.10.egg-info
+[1.805s] running install_scripts
+[1.830s] writing list of installed files to '/home/abd/exp_ws/src/build/NEW_description/install.log'
+[1.938s] Invoked command in '/home/abd/exp_ws/src/crazyswarm2/UGV' returned '0': PYTHONPATH=/home/abd/exp_ws/src/build/NEW_description/prefix_override:/home/abd/exp_ws/src/install/NEW_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/NEW_description build --build-base /home/abd/exp_ws/src/build/NEW_description/build install --record /home/abd/exp_ws/src/build/NEW_description/install.log --install-scripts $base/lib/NEW_description --single-version-externally-managed

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<robot name="NEW" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+<xacro:include filename="$(find NEW_description)/urdf/materials.xacro" />
+<xacro:include filename="$(find NEW_description)/urdf/NEW.trans" />
+<xacro:include filename="$(find NEW_description)/urdf/NEW.gazebo" />
+<link name="base_link">
+  <inertial>
+    <origin xyz="-0.039999999999999994 -0.20500000000000004 0.08049291748876518" rpy="0 0 0"/>
+    <mass value="40.28101782393888"/>
+    <inertia ixx="0.187513" iyy="0.389729" izz="0.364" ixy="-0.0" iyz="0.0" ixz="0.0"/>
+  </inertial>
+  <visual>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="file://$(find NEW_description)/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="file://$(find NEW_description)/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<link name="rfid_holder_1">
+  <inertial>
+    <origin xyz="0.00946089881142223 -8.326672684688674e-17 0.19115872828179742" rpy="0 0 0"/>
+    <mass value="1.2626602693651297"/>
+    <inertia ixx="0.008096" iyy="0.008219" izz="0.000545" ixy="0.0" iyz="-0.0" ixz="-0.001042"/>
+  </inertial>
+  <visual>
+    <origin xyz="0.04 0.205 -0.12" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="file://$(find NEW_description)/meshes/rfid_holder_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+    <material name="silver"/>
+  </visual>
+  <collision>
+    <origin xyz="0.04 0.205 -0.12" rpy="0 0 0"/>
+    <geometry>
+      <mesh filename="file://$(find NEW_description)/meshes/rfid_holder_1.stl" scale="0.001 0.001 0.001"/>
+    </geometry>
+  </collision>
+</link>
+
+<joint name="Slider 7" type="prismatic">
+  <origin xyz="-0.04 -0.205 0.12" rpy="0 0 0"/>
+  <parent link="base_link"/>
+  <child link="rfid_holder_1"/>
+  <axis xyz="0.0 0.0 1.0"/>
+  <limit upper="0.225" lower="0.04" effort="100" velocity="100"/>
+</joint>
+
+</robot>
